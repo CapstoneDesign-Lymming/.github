@@ -40,25 +40,25 @@
 ## 주요기능
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9dd35567-1ee1-4c10-b51f-a2a8cc189485" alt="image" width="70%">
+  <img src="https://github.com/user-attachments/assets/9dd35567-1ee1-4c10-b51f-a2a8cc189485" alt="image" width="100%">
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3ed07bb9-c4c7-419d-a4dc-3faa78e68fcd" alt="image" width="70%">
+  <img src="https://github.com/user-attachments/assets/3ed07bb9-c4c7-419d-a4dc-3faa78e68fcd" alt="image" width="100%">
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ef7aa0f5-37ef-4cae-9a76-112c56ea233c" alt="image" width="70%">
+  <img src="https://github.com/user-attachments/assets/ef7aa0f5-37ef-4cae-9a76-112c56ea233c" alt="image" width="100%">
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/34366e6d-a100-4ddd-9007-ee5d14fe1e18" alt="image" width="70%">
+  <img src="https://github.com/user-attachments/assets/34366e6d-a100-4ddd-9007-ee5d14fe1e18" alt="image" width="100%">
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/de8cf608-7abb-43ae-9973-55863377dd14" alt="image" width="70%">
+  <img src="https://github.com/user-attachments/assets/de8cf608-7abb-43ae-9973-55863377dd14" alt="image" width="100%">
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c409e8ab-4266-476f-b6e6-58f17cff5289" alt="image" width="70%">
+  <img src="https://github.com/user-attachments/assets/c409e8ab-4266-476f-b6e6-58f17cff5289" alt="image" width="100%">
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/daf96e69-6291-44d2-90bd-496448217026" alt="image" width="70%">
+  <img src="https://github.com/user-attachments/assets/daf96e69-6291-44d2-90bd-496448217026" alt="image" width="100%">
 </div>
 
 
