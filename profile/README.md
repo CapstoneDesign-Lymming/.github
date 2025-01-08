@@ -35,6 +35,13 @@
   <img src="https://github.com/user-attachments/assets/e54a598f-43c7-49f3-9842-6c19046c1d82" alt="image" width="70%">
 </div>
 
+## 협업 툴
+
+| 피그마 | 노션|
+|----------|----------|
+| <img src="https://github.com/user-attachments/assets/43035c63-046d-4023-ac37-b3a8403e8629" width="300" height="300" /> | <img src="https://github.com/user-attachments/assets/e99a010d-c7d5-4704-8c5e-d2b6f0914e67" width="300" height="300" /> |
+
+
 ---
 
 ## 주요기능
